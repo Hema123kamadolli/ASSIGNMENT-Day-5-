@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-2\Array List Basics in C#\Array List Basics in C#\bin\Debug\Array List Basics in C#.exe.config
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-2\Array List Basics in C#\Array List Basics in C#\bin\Debug\Array List Basics in C#.exe
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-2\Array List Basics in C#\Array List Basics in C#\bin\Debug\Array List Basics in C#.pdb
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-2\Array List Basics in C#\Array List Basics in C#\obj\Debug\Array List Basics in C#.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-2\Array List Basics in C#\Array List Basics in C#\obj\Debug\Array List Basics in C#.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-2\Array List Basics in C#\Array List Basics in C#\obj\Debug\Array List Basics in C#.exe
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-2\Array List Basics in C#\Array List Basics in C#\obj\Debug\Array List Basics in C#.pdb

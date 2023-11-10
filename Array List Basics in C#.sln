@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array List Basics in C#", "Array List Basics in C#\Array List Basics in C#.csproj", "{407E5017-0957-406D-B4EA-0FBDDE5E382A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407E5017-0957-406D-B4EA-0FBDDE5E382A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407E5017-0957-406D-B4EA-0FBDDE5E382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407E5017-0957-406D-B4EA-0FBDDE5E382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407E5017-0957-406D-B4EA-0FBDDE5E382A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC8BD083-3EE9-4989-9A63-066A3F1A25FE}
+	EndGlobalSection
+EndGlobal
